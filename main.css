@@ -1,0 +1,214 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: black;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 55px;
+}
+
+ul {
+    display: flex;
+    gap: 40px;
+}
+
+ul li a {
+    color: white;
+    font-weight: 700px;
+    font-size: 24px;
+    text-shadow: 4px 3px 6px white;
+}
+
+ul li a:hover {
+    color: red;
+    font-weight: 700px;
+    font-size: 24px;
+    text-shadow: 4px 3px 6px red;
+}
+
+.section {
+    background-image: url(https://s3-alpha-sig.figma.com/img/1b50/633a/759a8e362d186f06b705cacba5a931ca?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JFGC~p-VzmPhSHH950cZU-~OslFztc2p6JQ9jglthTmuBQo6geHybxWlKKjgzfnK~KmjGMXpYxTF5Q0DS5sTLz6rb9BhnDtBxB9zZh0-VZm~fvgjF0oHvbrI0KrAYaq2Zg4BtBpgu65Cy6Ne-Ydmw-PJ6ckGXaL1w0gu9G3vpcBEzHzkwRL7o8qjCO03oHEcSsPHc246T24dFVDJdLmGaSzeTgnbYi3ggcCEtp24RKzsnLtBT67jCSjd~iq9dYT4b2HkIrPmDz~6e5~TZOh7DURR56-pbNGva8a~FErT7v~gleI15TplyLWthkEfizN058JRcFRU8lcA70CI9m4ang__);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #000000C7;
+    padding: 37px;
+}
+
+h1 {
+    font-weight: 700px;
+    font-size: 64px;
+
+}
+
+.div {
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    width: 602px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.squer {
+    position: relative;
+    width: 237px;
+    height: 209px;
+    background-color: green;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sque {
+    width: 237px;
+    height: 209px;
+    background-color: red;
+    position: absolute;
+    top: -50%;
+    left: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    color: red;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700px;
+    margin-top: 41px;
+}
+
+.p {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700px;
+    color: white;
+}
+
+.squ {
+    width: 237px;
+    height: 209px;
+    background-color: green;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.b {
+    display: flex;
+    gap: 271px;
+    margin-top: 183px;
+}
+
+.squerr {
+    position: relative;
+    width: 237px;
+    height: 209px;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.insquer {
+    width: 411px;
+    height: 209px;
+    border-radius: 100px;
+    background-color: red;
+    position: absolute;
+    top: -50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.a {
+    position: relative;
+    width: 237px;
+    height: 209px;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.u {
+    width: 237px;
+    height: 209px;
+    background-color: red;
+    position: absolute;
+    top: -50%;
+    right: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sony {
+    background-color: black;
+    padding: 79px;
+}
+
+
+.parent {
+    display: flex;
+    margin-top: 135px;
+    justify-content: center;
+    gap: 88px;
+}
+
+.position {
+    width: 368px;
+    height: 332px;
+    background-color: #7B2525;
+    color: white;
+}
+
+h3 {
+    font-weight: 700px;
+    font-size: 32px;
+    text-shadow: 2px 2px 5px white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.h{
+    color: white;
+    margin-top: 68px;
+}
+
+.ikki{
+    margin: 87px auto;
+}
+
+.uch{
+    margin: 36px ;
+}
+
+footer{
+    background-color: black;
+}
+
+.d{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
